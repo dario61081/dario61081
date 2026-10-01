@@ -1,0 +1,35 @@
+# ¡Hola! Soy Dario Garcia 👋
+
+### Senior Software Engineer | Backend & DevOps Specialist | Python & Infrastructure
+Soy un **Ingeniero de Software Senior** apasionado por el desarrollo de sistemas robustos, la arquitectura limpia y la automatización de infraestructura. Con más de 10 años de experiencia en el sector, me especializo en construir aplicaciones web de alto rendimiento, plataformas ERP a medida y soluciones backend escalables, además de administrar entornos de servidores de datos en Linux y flujos DevOps modernos.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Backend & Web** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) |
+| **DevOps & SysAdmin** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Gitea](https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=white) |
+| **Lenguajes & Frameworks** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Delphi](https://img.shields.io/badge/Delphi-B22222?logo=delphi&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual_Basic-5C2D91?logo=visualbasic&logoColor=white) ![#.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) |
+| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) ![Firebird](https://img.shields.io/badge/Firebird-E25A2C?logo=firebird&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) |
+| **IDEs & Editores** | ![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) |
+---
+
+### 🚀 Experiencia Destacada
+
+* **Desarrollo de Soluciones ERP Modernas:** Arquitectura de extremo a extremo para plataformas empresariales utilizando **Python, PHP y TypeScript**. Implementación de sistemas de monitoreo de procesos y tableros de control Kanban integrados directamente a servidores **Gitea** para un tracking milimétrico de avances.
+* **Evolución y Migración de Sistemas:** Especialista en la transformación digital y refactorización de software heredado (Legacy) escrito en **Delphi / Object Pascal** y **Visual Basic**, migrándolo hacia microservicios modernos y APIs de alta velocidad en la nube utilizando **FastAPI** y entornos basados en contenedores.
+* **Infraestructura y Contenedores:** Despliegue, aislamiento y orquestación de servicios críticos utilizando **Docker, Podman y Kubernetes**, asegurando una alta disponibilidad (99.9% uptime) y procesos automatizados de CI/CD.
+* **Administración de Servidores de Datos:** Configuración, optimización de consultas (tuning) y endurecimiento de la seguridad de servidores distribuidos en **Linux (Ubuntu Server, Debian, RHEL)** para el manejo eficiente de transacciones masivas.
+
+---
+
+
+### 📬 Conéctate conmigo
+
+Actualmente estoy **abierto a oportunidades laborales desafiantes** (en modalidad 100% Remota o Presencial con opción de Relocalización). Si buscas un ingeniero capaz de optimizar tu infraestructura DevOps o desarrollar lógica backend robusta, ¡conversemos!
+
+* 📱 **Teléfono:** +595 985830541
+* ✉️ **Email:** dario61081@gmail.com
+* 🛠️ **Proyectos Independientes:** DR2GSistemas
